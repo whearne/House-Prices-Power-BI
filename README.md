@@ -1,4 +1,4 @@
-# House Prices in Seattle - Data Analysis Project 
+# House Prices in Seattle - Data Analysis Project  ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ## Overview
 This project involves analysing house prices in Seattle using various parameters like the condition of the house, the number of floors, view ratings, year built, number of bedrooms, bathrooms, and grade rating. The aim is to provide insights into how different factors affect the average house prices in Seattle. The analysis was conducted using a combination of data visualization tools to showcase trends and patterns.
 
